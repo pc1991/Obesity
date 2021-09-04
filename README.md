@@ -1,5 +1,13 @@
 # Analyzing the Obesity Pandemic
 
+(Courtesy: Ankur Singh of Kaggle)
+
+Ankur Singh: This is a survey done by one of my friends about how obesity is affected and what people think about obesity in general.
+
+# Context
+
+This will be the first of multiple parts of how obesity is a huge global pandemic besides coronavirus. In fact, obesity is a big factor in why coronavirus has accelerated the deaths of obese people with pre-existing conditions.
+
 Copyright (c) 2021 Robert (Christian) Paul & Ankur Singh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
